@@ -19,9 +19,13 @@ Streamlit Interface: Provides an interactive and user-friendly interface using S
 Prerequisites
 
 Python 3.8+
+
 A Pinecone account with API access
+
 OpenAI API key
-A fine-tuned model (can be created using the provided code)
+
+A fine-tuned model (Jsonl dataset)
+
 Streamlit for the web interface
 
 
