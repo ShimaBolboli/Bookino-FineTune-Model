@@ -1,0 +1,401 @@
+The book title is Einstein's Dreams
+Authors are Alan Lightman
+The average rating is 4.07
+The language is english
+The book title is Sweet Dreams  Mimi (Baby Einstein)
+Authors are Julie Aigner-Clark/Nadeem Zaidi
+The average rating is 3.13
+The language is english
+The book title is A Hunger Like No Other (Immortals After Dark  #1)
+Authors are Kresley Cole
+The average rating is 4.19
+The language is english
+The book title is The Price of Pleasure (Sutherland Brothers  #2)
+Authors are Kresley Cole
+The average rating is 4.0
+The language is english
+The book title is If You Dare (MacCarrick Brothers  #1)
+Authors are Kresley Cole
+The average rating is 4.0
+The language is english
+The book title is Organic Church: Growing Faith Where Life Happens
+Authors are Neil Cole/Leonard Sweet
+The average rating is 3.88
+The language is english
+The book title is Chekhov's Doctors: A Collection of Chekhov's Medical Tales (Literature & Medicine 5)
+Authors are Anton Chekhov/Jack Coulehan/Robert Coles
+The average rating is 4.04
+The language is en-GB
+The book title is The Story of Ruby Bridges
+Authors are Robert Coles/George Ford
+The average rating is 4.43
+The language is english
+The book title is The Complete Lyrics of Cole Porter
+Authors are Cole Porter/Robert Kimball/John Updike
+The average rating is 4.53
+The language is english
+The book title is Barron's Book Notes: Lord of the Flies
+Authors are Michael Spring/William Golding
+The average rating is 3.67
+The language is english
+The book title is The spire  William Golding : notes
+Authors are Steve Eddy
+The average rating is 3.6
+The language is english
+The book title is The Inheritors
+Authors are William Golding
+The average rating is 3.52
+The language is english
+The book title is The Pyramid
+Authors are William Golding
+The average rating is 3.33
+The language is english
+The book title is President Nixon: Alone in the White House
+Authors are Richard Reeves
+The average rating is 3.96
+The language is english
+The book title is Awakenings
+Authors are Oliver Sacks
+The average rating is 4.1
+The language is english
+The book title is Kitty Goes to Washington (Kitty Norville  #2)
+Authors are Carrie Vaughn
+The average rating is 3.87
+The language is english
+The book title is Kitty and the Midnight Hour (Kitty Norville #1)
+Authors are Carrie Vaughn
+The average rating is 3.66
+The language is english
+The book title is Not Since Carrie: Forty Years of Broadway Musical Flops
+Authors are Ken Mandelbaum
+The average rating is 4.09
+The language is english
+The book title is Kitty Takes a Holiday (Kitty Norville  #3)
+Authors are Carrie Vaughn
+The average rating is 3.91
+The language is english
+The book title is The Best Short Stories of O. Henry
+Authors are O. Henry/Bennett Cerf/Van H. Cartmell
+The average rating is 4.26
+The language is english
+The book title is Amelia Bedelia 50th Anniversary Library: Amelia Bedelia  Amelia Bedelia and the Surprise Shower  and Play Ball  Amelia Bedelia
+Authors are Peggy Parish/Various
+The average rating is 4.43
+The language is english
+The book title is Merry Christmas  Amelia Bedelia
+Authors are Peggy Parish/Lynn Sweat
+The average rating is 4.29
+The language is english
+The book title is Amelia Bedelia Goes Camping
+Authors are Peggy Parish/Lynn Sweat
+The average rating is 4.13
+The language is english
+The book title is Amelia Bedelia and the Baby (Amelia Bedelia)
+Authors are Peggy Parish/Lynn Sweat
+The average rating is 4.17
+The language is english
+The book title is Teach Us  Amelia Bedelia
+Authors are Peggy Parish/Lynn Sweat
+The average rating is 4.21
+The language is english
+The book title is Amelia Bedelia Helps Out
+Authors are Peggy Parish/Lynn Sweat
+The average rating is 4.25
+The language is english
+The book title is Directing the Documentary
+Authors are Michael Rabiger
+The average rating is 4.23
+The language is english
+The book title is Introduction to Documentary
+Authors are Bill Nichols
+The average rating is 3.79
+The language is english
+The book title is $30 Film School: How to Write  Direct  Produce  Shoot  Edit  Distribute  Tour With  and Sell Your Own No-Budget Digital Movie
+Authors are Michael W. Dean
+The average rating is 3.49
+The language is english
+The book title is Salonica  City of Ghosts: Christians  Muslims and Jews  1430-1950
+Authors are Mark Mazower
+The average rating is 4.27
+The language is english
+The book title is Farewell to Salonica: City at the Crossroads
+Authors are Leon Sciaky/Peter Sciaky
+The average rating is 4.13
+The language is english
+The book title is The Mind Parasites
+Authors are Colin Wilson
+The average rating is 3.77
+The language is en-GB
+The book title is Neverwhere (London Below  #1)
+Authors are Neil Gaiman
+The average rating is 4.17
+The language is english
+The book title is Neil Gaiman's Neverwhere
+Authors are Mike Carey/Glenn Fabry/Neil Gaiman
+The average rating is 4.24
+The language is english
+The book title is Neverwhere
+Authors are Neil Gaiman
+The average rating is 4.17
+The language is French
+The book title is Marjorie Morningstar
+Authors are Herman Wouk
+The average rating is 3.98
+The language is english
+The book title is El Perfume: Historia De Un Asesino
+Authors are Patrick S¼skind
+The average rating is 4.02
+The language is spain
+The book title is The Perfume of the Lady in Black
+Authors are Gaston Leroux/Margaret Jull Costa/Terry Hale
+The average rating is 3.53
+The language is english
+The book title is The Perfume Factory
+Authors are Alex Austin
+The average rating is 4.18
+The language is english
+The book title is Psyche in a Dress
+Authors are Francesca Lia Block
+The average rating is 3.84
+The language is english
+The book title is Echo
+Authors are Francesca Lia Block
+The average rating is 3.87
+The language is english
+The book title is Ecstasia
+Authors are Francesca Lia Block
+The average rating is 3.9
+The language is english
+The book title is Eight Cousins (Eight Cousins  #1)
+Authors are Louisa May Alcott
+The average rating is 4.01
+The language is english
+The book title is Peace Is Every Step: The Path of Mindfulness in Everyday Life
+Authors are Thich Nhat Hanh/Arnold Kotler/Dalai Lama XIV
+The average rating is 4.33
+The language is english
+The book title is Night Beat: A Shadow History of Rock & Roll
+Authors are Mikal Gilmore
+The average rating is 3.74
+The language is english
+The book title is The History of Rock and Roll (World History)
+Authors are Adam Woog
+The average rating is 4.0
+The language is english
+The book title is Please Kill Me: The Uncensored Oral History of Punk
+Authors are Legs McNeil/Gillian McCain
+The average rating is 4.16
+The language is english
+The book title is The Day the Country Died: A History of Anarcho-Punk  1980-1984
+Authors are Ian Glasper
+The average rating is 3.99
+The language is english
+The book title is Edie: Girl on Fire
+Authors are David Weisman/Melissa Painter
+The average rating is 4.22
+The language is english
+The book title is Edie
+Authors are Jean Stein/George Plimpton
+The average rating is 4.14
+The language is english
+The book title is The Leatherstocking Tales  Vol. 1: The Pioneers / The Last of the Mohicans / The Prairie
+Authors are James Fenimore Cooper/Blake Nevius
+The average rating is 3.88
+The language is english
+The book title is The Catcher in the Rye: Annotations and Study Aids
+Authors are J.D. Salinger/Rudolph F. Rau
+The average rating is 3.8
+The language is english
+The book title is Der F¤nger im Roggen
+Authors are J.D. Salinger/Eike Sch¶nfeld
+The average rating is 3.8
+The language is ger
+The book title is A House Divided (House of Earth  #3)
+Authors are Pearl S. Buck
+The average rating is 3.89
+The language is english
+The book title is Sons (House of Earth  #2)
+Authors are Pearl S. Buck
+The average rating is 3.84
+The language is english
+The book title is East Wind: West Wind
+Authors are Pearl S. Buck
+The average rating is 4.0
+The language is english
+The book title is Encyclopedia Brown Solves Them All (Encyclopedia Brown  #5)
+Authors are Donald J. Sobol/Leonard W. Shortall
+The average rating is 4.01
+The language is english
+The book title is Encyclopedia Brown and the Case of the Slippery Salamander (Encyclopedia Brown  #22)
+Authors are Donald J. Sobol/Warren Chang
+The average rating is 4.08
+The language is english
+The book title is Encyclopedia Brown and the Case of the Treasure Hunt (Encyclopedia Brown  #17)
+Authors are Donald J. Sobol/Gail Owens
+The average rating is 4.03
+The language is english
+The book title is Encyclopedia Brown and the Case of the Sleeping Dog (Encyclopedia Brown  #21)
+Authors are Donald J. Sobol/Warren Chang
+The average rating is 4.04
+The language is english
+The book title is When Red Is Black (Inspector Chen Cao #3)
+Authors are Qiu Xiaolong
+The average rating is 3.77
+The language is english
+The book title is The Red and the Black
+Authors are Stendhal/Burton Raffel/Diane Johnson
+The average rating is 3.88
+The language is english
+The book title is Red and Black
+Authors are Stendhal/Robert M. Adams
+The average rating is 3.88
+The language is english
+The book title is Black on Red: My 44 Years Inside the Soviet Union: An Autobiography
+Authors are Robert Robinson/Jonathan Slevin
+The average rating is 4.33
+The language is english
+The book title is Thinking Visually (Basics Illustration  #1)
+Authors are Mark Wigan
+The average rating is 3.62
+The language is english
+The book title is Love
+Authors are Stendhal/Gilbert Sale/Suzanne Sale/B.C.J.G. Knight/Jean Stewart
+The average rating is 3.71
+The language is english
+The book title is The Charterhouse of Parma
+Authors are Stendhal/Richard Howard/Robert Andrew Parker
+The average rating is 3.82
+The language is english
+The book title is The Charterhouse of Parma
+Authors are Stendhal/Roger Pearson/Margaret Mauldon
+The average rating is 3.82
+The language is english
+The book title is The King of Elfland's Daughter
+Authors are Lord Dunsany/Neil Gaiman
+The average rating is 3.84
+The language is english
+The book title is In the Land of Time: And Other Fantasy Tales
+Authors are Lord Dunsany/S.T. Joshi
+The average rating is 4.12
+The language is english
+The book title is Fifty-One Tales
+Authors are Lord Dunsany/John Gregory Betancourt/Lin Carter
+The average rating is 3.79
+The language is english
+The book title is The Sword of Welleran and Other Stories
+Authors are Lord Dunsany/Sidney H. Sime
+The average rating is 4.01
+The language is english
+The book title is On the Lines of Morris' Romances: Two Books That Inspired J. R. R. Tolkien-The Wood Beyond the World and the Well at the World's End
+Authors are William Morris/Michale W. Perry
+The average rating is 4.09
+The language is english
+The book title is Faust  Part One
+Authors are Johann Wolfgang von Goethe/David  Luke
+The average rating is 3.93
+The language is english
+The book title is Faust  First Part
+Authors are Johann Wolfgang von Goethe/Peter Salm
+The average rating is 3.93
+The language is english
+The book title is Faust  Part Two
+Authors are Johann Wolfgang von Goethe/David  Luke
+The average rating is 3.73
+The language is english
+The book title is Nathan the Wise  Minna von Barnhelm  and Other Plays and Writings
+Authors are Gotthold Ephraim Lessing
+The average rating is 3.7
+The language is english
+The book title is Your First Year in Network Marketing: Overcome Your Fears  Experience Success  and Achieve Your Dreams!
+Authors are Mark Yarnell/Rene Reid Yarnell/Richard  Poe
+The average rating is 4.04
+The language is english
+The book title is The Wealth of Networks: How Social Production Transforms Markets and Freedom
+Authors are Yochai Benkler
+The average rating is 3.97
+The language is english
+The book title is War Trash
+Authors are Ha Jin
+The average rating is 3.79
+The language is english
+The book title is æ°å»¢å
+Authors are Ha Jin
+The average rating is 3.79
+The language is zho
+The book title is Zone of the Enders: The 2nd Runner Official Strategy Guide
+Authors are Tim Bogenn
+The average rating is 5.0
+The language is english
+The book title is The God Delusion
+Authors are Richard Dawkins
+The average rating is 3.9
+The language is english
+The book title is Good in Bed (Cannie Shapiro  #1)
+Authors are Jennifer Weiner
+The average rating is 3.72
+The language is english
+The book title is The Guy Not Taken: Stories
+Authors are Jennifer Weiner
+The average rating is 3.48
+The language is english
+The book title is Goodnight Nobody
+Authors are Jennifer Weiner
+The average rating is 3.65
+The language is english
+The book title is Los diarios de Nanny
+Authors are Emma McLaughlin/Nicola Kraus
+The average rating is 3.42
+The language is spain
+The book title is Davita's Harp
+Authors are Chaim Potok
+The average rating is 3.99
+The language is english
+The book title is Neuromancer
+Authors are William Gibson
+The average rating is 3.9
+The language is english
+The book title is Chosen By God: Know God's Perfect Plan for His Glory and His Children
+Authors are R.C. Sproul
+The average rating is 4.34
+The language is english
+The book title is The Chosen: The Hidden History of Admission and Exclusion at Harvard  Yale  and Princeton
+Authors are Jerome Karabel
+The average rating is 4.08
+The language is english
+The book title is Chosen Prey (Lucas Davenport  #12)
+Authors are John Sandford
+The average rating is 4.24
+The language is english
+The book title is Chosen But Free
+Authors are Norman L. Geisler
+The average rating is 3.31
+The language is english
+The book title is The Lady Chosen (Bastion Club  #1)
+Authors are Stephanie Laurens
+The average rating is 3.97
+The language is english
+The book title is Maya Cosmogenesis 2012: The True Meaning of the Maya Calendar End-Date
+Authors are John Major Jenkins/Terence McKenna
+The average rating is 3.71
+The language is english
+The book title is Travels of Marco Polo
+Authors are Marco Polo/Howard Mittelmark/Milton Rugoff
+The average rating is 3.58
+The language is english
+The book title is The Sword of Angels (The Bronze Knight  #3)
+Authors are John Marco
+The average rating is 3.9
+The language is english
+The book title is A Scanner Darkly
+Authors are Philip K. Dick
+The average rating is 4.02
+The language is english
+The book title is Midnight's Children
+Authors are Salman Rushdie
+The average rating is 3.98
+The language is english
+The book title is Last Man Standing
+Authors are David Baldacci
+The average rating is 4.04
+The language is english
+
