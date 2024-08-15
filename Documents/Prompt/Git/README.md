@@ -3,16 +3,6 @@
 📚 ***Bookino***
 Book Recommendation Chatbot
 
-Bookino is an AI-powered chatbot designed to provide personalized book recommendations based on user queries. This application leverages LangChain, Pinecone, and OpenAI's fine-tuned models to generate accurate and relevant responses.
----------------------------------------
-***Features***
-Features
-Natural Language Processing (NLP): Uses advanced NLP models to understand user queries and provide appropriate book recommendations.
-Fine-Tuned Model: Incorporates a custom fine-tuned model to enhance the accuracy and relevance of the recommendations.
-Pinecone Integration: Utilizes Pinecone for efficient vector storage and similarity search to find relevant content from the book dataset.
-Streamlit Interface: Provides an interactive and user-friendly interface using Streamlit, allowing users to ask questions and receive recommendations in real-time.
-
-
 ---------------------------------
 ***Installation***
 
@@ -72,39 +62,7 @@ Dashboard: Easier to use with less technical overhead.Best for quick, one-off fi
 
 Programmatic: Offers more control and flexibility but requires more effort.
 
-
 -------------------------------------------------
-***Usage***
-
-1- Ensure your dataset (For example books.txt) is in the project directory.
-you can download dataset from website like Kaggle 
-
-2- Run the Streamlit app:
-
-```
-streamlit run fine_name.py
-```
-
-3-Open your browser and navigate to http://localhost:8501 to interact with the chatbot.
------------------------------------------------
-***How It Works***
-
-***Loading and Splitting Documents***
-
-The application loads a text file (book.txt) and splits it into chunks using LangChain's CharacterTextSplitter.
-
-***Vectorization and Storage***
-
-The text chunks are embedded using HuggingFaceEmbeddings and stored in Pinecone, enabling efficient similarity search.
-
-***Fine-Tuned Model***
-
-A fine-tuned model is used to generate responses based on the context retrieved from Pinecone. If no relevant context is found, the chatbot will return "No data found."
-
-***User Interaction***
-
-The chatbot interface is built with Streamlit, providing a simple and interactive way for users to ask questions and receive recommendations.
-
 
 ***YouTube Link***
 
