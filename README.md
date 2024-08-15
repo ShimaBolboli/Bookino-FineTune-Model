@@ -5,6 +5,7 @@ Book Recommendation Chatbot
 
 Bookino is an AI-powered chatbot designed to provide personalized book recommendations based on user queries. This application leverages LangChain, Pinecone, and OpenAI's fine-tuned models to generate accurate and relevant responses.
 ---------------------------------------
+
 ***Features***
 Features
 Natural Language Processing (NLP): Uses advanced NLP models to understand user queries and provide appropriate book recommendations.
@@ -90,6 +91,7 @@ streamlit run fine_name.py
 ```
 
 3-Open your browser and navigate to http://localhost:8501 to interact with the chatbot.
+
 -----------------------------------------------
 ***How It Works***
 
