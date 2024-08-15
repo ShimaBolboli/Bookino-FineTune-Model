@@ -9,9 +9,13 @@ Book Recommendation Chatbot
 Prerequisites
 
 Python 3.8+
+
 A Pinecone account with API access
+
 OpenAI API key
+
 A fine-tuned model (can be created using the provided code)
+
 Streamlit for the web interface
 
 
