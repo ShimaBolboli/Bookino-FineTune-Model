@@ -112,6 +112,17 @@ A fine-tuned model is used to generate responses based on the context retrieved 
 The chatbot interface is built with Streamlit, providing a simple and interactive way for users to ask questions and receive recommendations.
 
 
+***Contact Info***
+
+gitHub:https://github.com/ShimaBolboli
+
+LinkedIn:![image](https://github.com/user-attachments/assets/bf668963-782b-4410-87b1-bdfbe0c679c1)
+
+NUID:002709377
+
+Toronto Cmpus
+
+
 ***YouTube Link***
 
 https://youtu.be/XfZ2e17V3dQ
