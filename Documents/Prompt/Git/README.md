@@ -1,7 +1,7 @@
 
-🦜🔗
-🔧🤖
-**Book Recommendation Chatbot**
+
+📚 ***Bookino***
+Book Recommendation Chatbot
 
 Bookino is an AI-powered chatbot designed to provide personalized book recommendations based on user queries. This application leverages LangChain, Pinecone, and OpenAI's fine-tuned models to generate accurate and relevant responses.
 ---------------------------------------
