@@ -62,6 +62,16 @@ streamlit run openAI-json.py
 
 Open your web browser and go to http://localhost:8501 to interact with Bookino.
 
+***NOTE:*** I have 2 model of fine-tune:
+Model 1 (openAI.py): Created through OpenAI's dashboard, using the provided model ID in your code.
+Model 2 (openAI-json.py): Created by uploading a dataset programmatically via fine_tune_model.py, also using the model ID in your code.
+
+Both models use OpenAI's fine-tuning services but were set up through different methods—one via the dashboard and the other via a custom script.
+
+Dashboard: Easier to use with less technical overhead.Best for quick, one-off fine-tuning with minimal coding.
+
+Programmatic: Offers more control and flexibility but requires more effort.
+
 
 -------------------------------------------------
 ***Usage***
