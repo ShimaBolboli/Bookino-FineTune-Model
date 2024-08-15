@@ -68,6 +68,16 @@ Programmatic: Offers more control and flexibility but requires more effort.
 
 -------------------------------------------------
 
+***Contact Info***
+
+gitHub:https://github.com/ShimaBolboli
+LinkedIn:www.linkedin.com/in/shima-bolboli![image](https://github.com/user-attachments/assets/bf668963-782b-4410-87b1-bdfbe0c679c1)
+Email:s.bolboli@gmail.com
+
+--------------------------------------------------
+lic
 ***YouTube Link***
 
 https://youtu.be/XfZ2e17V3dQ
+
+
